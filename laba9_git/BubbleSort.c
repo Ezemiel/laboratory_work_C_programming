@@ -23,5 +23,5 @@ int main() {
     }
  }
 
-// Bubble sort implementation
+
 // Сортировка на Си
